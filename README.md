@@ -1,6 +1,7 @@
 # Rossmann Stores Sales Prediction
 Sales forecast for the stores of the european drugstore chain Rossmann.
-<i>\n(This is an ongoing project)</i>
+
+<i>(This is an ongoing project)</i>
 
 (rossmann_picture)
 
