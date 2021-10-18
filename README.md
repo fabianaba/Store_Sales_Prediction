@@ -78,7 +78,7 @@ The sales forecast and the generated insights provide the CEO with valuable tool
 Some hypothesis made when filling missing data would be reviewed in a following CRISP cycle, and other ones would be tested in the exploratory data analysis step. Also, other machine learning models would be employed (in particular, gradient boost models).
 
 The model will be deployed to production in an App at Heroku. One can send a request from an external application (such as Postman, for example). The app receives a JSON file and returns the sales forecast for the following six weeks. This app would also receive requests from another app hooked to a Telegram Bot. In this case, one must only pass the number of the store to the Bot to obtain the sales forecast. This second App will also be hosted at Heroku.
-
+***
 ### References
 * Blog [Seja um Data Scientist](https://sejaumdatascientist.com/)
 * Dataset Rossmann Store Sales from [Kaggle](https://www.kaggle.com/c/rossmann-store-sales) 
