@@ -4,6 +4,7 @@ Sales forecast for the stores of the european drugstore chain Rossmann.
 <i>(This is an ongoing project)</i>
 
 <img src="https://github.com/fabianaba/Store_Sales_Prediction/rossmann.png">
+<rossmann.png>
 
 ## 1. Business problem
 
