@@ -41,13 +41,13 @@ The strategy adopted was the following:
 
 <b> Step 09 - Deploy Model to Production:</b> The model is deployed on a cloud environment to make possible that other stakeholders and services access its results.
 
-## 5 Top 3 Data insights
+## 5. Top 3 Data insights
 
 1. Stores with larger assortment do not sell more.
 2. Stores with closer competitors do sell more.
 3. Stores sell less at school holidays (except during summer).
 
-## 6 Machine Learning Model Applied
+## 6. Machine Learning Model Applied
 
 The following machine learning models were trained:
 
@@ -58,21 +58,22 @@ The following machine learning models were trained:
 
 All of them were cross-validated and their performance was compared against a random model.
 
-## 7 Machine Learning Model Performance
+## 7. Machine Learning Model Performance
 
 The performance of every trained model, after cross-validation. The columns correspond to the metrics: Mean Absolute Error, Mean Absolute Percentage Error and Root Mean Squared Error.
 
 ![performance](https://github.com/fabianaba/Store_Sales_Prediction/blob/main/images/performance.png)
 
-## 8 Conclusions
+## 8. Conclusions
 
 The sales forecast and the generated insights provide the CEO with valuable tools to decide the amount of budget that is going to be dedicated to the restoration of each store.
-## 9 Lessons Learned
+
+## 9. Lessons Learned
 
 * The exploratory data analysis provides important insights to the business problem, many of which contradict the initial hypothesis. This information is valuable for the understanding of business and for planning future actions. This step also provides a preview of the result of the feature selection step.
 * The machine learning model performance must be evaluated in the learning and generalization stages. A balance between bias and variance must be achieved based on the uniqueness of the problem.
 
-## 10 Next steps and improvements
+## 10. Next steps and improvements
 
 Some hypothesis made when filling missing data would be reviewed in a following CRISP cycle, and other ones would be tested in the exploratory data analysis step. Also, other machine learning models would be employed (in particular, gradient boost models).
 
