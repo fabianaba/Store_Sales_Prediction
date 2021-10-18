@@ -5,8 +5,6 @@ Sales forecast for the stores of the european drugstore chain Rossmann.
 
 <img src="https://github.com/fabianaba/Store_Sales_Prediction/rossmann.png">
 
-
-
 ## 1. Business problem
 
 The stores of the Rossmann drugstore chain need to be restored and the CEO needs to decide how much is going to be dedicated to the restoration of each one. To support this decision, the Analytics team is asked to present a sales forecast for each store during a period of six weeks, alongside with the total income expected in the chain. This forecast also informs the CEO which store is able to account for its own restoration with the income within this period.
