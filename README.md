@@ -1,5 +1,5 @@
 # Rossmann Stores Sales Prediction
-Sales forecast for the stores of the european drugstore chain Rossmann.
+Project of Regression. Sales forecast for the stores of the european drugstore chain Rossmann.
 
 ![Rossmann](https://github.com/fabianaba/Store_Sales_Prediction/blob/main/images/rossmann.png)
 
